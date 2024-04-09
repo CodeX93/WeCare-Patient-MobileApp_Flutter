@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52371940980",
+    "project_id": "wecare-b2c6a",
+    "storage_bucket": "wecare-b2c6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52371940980:android:7af72b97951d62ae27d321",
+        "android_client_info": {
+          "package_name": "com.example.wecare_patient_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOWgOpGr5w3cJEsY_1frqbbU4lEUR29Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
